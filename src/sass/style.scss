@@ -20,6 +20,10 @@
     margin: 25px auto 0 auto;
 }
 
+p {
+    margin: 0;
+}
+
 @import 'blocks/promo.scss';
 @import 'blocks/title.scss';
 @import 'blocks/buttons.scss';
@@ -30,3 +34,5 @@
 @import 'blocks/skills.scss';
 @import 'blocks/portfolio.scss';
 @import 'blocks/price.scss';
+@import 'blocks/contacts.scss';
+@import 'blocks/media.scss';
